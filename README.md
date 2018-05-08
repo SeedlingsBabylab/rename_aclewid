@@ -1,6 +1,6 @@
 # rename_aclewid
 
-rename all the files in a folder with their corresponding ACLEW id.
+rename all the files in a folder with their corresponding ACLEW id. (only does SEEDLingS files)
 
 ### dependencies:
 
