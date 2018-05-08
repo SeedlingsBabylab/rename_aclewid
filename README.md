@@ -6,6 +6,12 @@ rename all the files in a folder with their corresponding ACLEW id.
 
 pandas
 
+can install with:
+
+```
+$ pip install -U pandas
+```
+
 ### usage
 
 ```
